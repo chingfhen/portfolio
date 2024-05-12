@@ -1,6 +1,6 @@
 title: Ching Fhen
-logo: /logo.JPG
+logo: /logo0.JPG
 description: Hi my name is Ching Fhen
-# show_downloads: true
+show_downloads: false
 # google_analytics:
 theme: jekyll-theme-minimal
