@@ -8,7 +8,8 @@ Analysing financial data with the goal of making informed business decisions can
 #### 2. Real-Time Analytics Chatbot
 
 
-![alt text](https://www.easygifanimator.net/images/samples/video-to-gif-sample.gif)
+![alt text](/assets/images/logo0.jpg)
+![alt text](/assets/gifs/powerbi_dashboard.gif)
 
 ## AI in Job Hiring Analytics
 1. AVEDSZXVDZX
