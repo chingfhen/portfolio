@@ -3,4 +3,4 @@ logo: /assets/images/logo0.jpg
 description: Experienced Data Scientist with half a decade of experience. Capable of delivering full stack AI Applications.
 show_downloads: false
 # google_analytics:
-theme: jekyll-theme-leap-day  #jekyll-theme-minimal
+theme: jekyll-theme-minimal
