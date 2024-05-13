@@ -1,18 +1,14 @@
-# portfolio
+## Project: AI in Financial Analytics 
+Analysing financial data with the goal of making informed business decisions can be challenging without the right domain knowledge, mathematical and statistical skillsets. By leveraging Generative AI, I was able to bridge this gap. 
 
-## AI in Financial Analytics
-Analysing financial data with the goal of making informed business decisions can be challenging without the right domain knowledge, mathematical and statistical skillsets. By leveraging Generative AI, I was able to bridge this gap. I implemented AI solutions that is able to analyse financial data, perform statistical techniques and generate insights that help humans to make strategic business decisions more rapidly.
+I implemented AI Solutions that is able to analyse financial data, perform statistical techniques and generate insights that helped key decision makers to make strategic business decisions more rapidly. Full Solution Documentation can be found [here](/assets/images/powerbi_dashboard.png).
 
-
-
-Solution Documentation can be found [here](/assets/images/powerbi_dashboard.png).
-
-#### 1. PowerBI Dashboard powered by AI Insights
+#### 1. Financial Analytics PowerBI Dashboard with AI Insights
 Developed and Integrated Generative AI Insights into Financial Analytics PowerBI Reports. Scheduled Jobs to AI Insights updated.
 
 ![alt text](/assets/images/powerbi_dashboard.png)
 
-The AI can perform complex calculations to perform financial analysis such as Liquidity Analysis and Accounts Receivable Turnover Analysis. 
+The AI can perform complex calculations to generate insights for various Financial Analysis such as Liquidity Analysis and Accounts Receivable Turnover Analysis. 
 
 Examples of insights:
 
@@ -23,18 +19,31 @@ Examples of insights:
 
 ![alt text](/assets/gifs/powerbi_dashboard.gif)
 
-#### 2. Real-Time Analytics Chatbot
-Developed a Chatbot that will perform Real-Time calculations, charting and financial analytics on financial data. Demo can be found [here](https://drive.google.com/drive/u/1/folders/1fLRryqGJfyG4ZG3Ai2TssPJMkC4noA7U)
+#### 2. Real-Time Financial Analytics Chatbot
+Developed a Chatbot that performs Real-Time Calculations, Charting and Financial Analysis. Demo can be found [here](https://drive.google.com/file/d/1GR2Zc3fGGLxfUhg9OH05LlVe1y6GP1Ys/view?usp=sharing)
 
 ![alt text](/assets/gifs/financial_chatbot.gif)
 
-Stack: PowerBI, Databricks, MySQL, OpenAI Completions API, OpenAI Assistants API, CustomGPT, Azure Container Apps, Azure File Share, PySpark, Pandas, FastAPI, Python, SQL
+Stack: PowerBI, Databricks, Azure Container Apps, Azure File Share, MySQL, Docker, OpenAI Completions API, OpenAI Assistants API, CustomGPT, PySpark, Pandas, FastAPI, Python, SQL
 
 
 ## AI in Job Hiring Analytics
-1. AVEDSZXVDZX
-2. DCWAESDFCs
+Job Hiring is often a tedious task because the HR needs to filter and analyse hundreds of applicants to find the right candidates for a job role. Through the utilization of AI, we can streamline this process easier for HR. 
 
+I implemented AI Solutions that can filter, analyse and summarize job applications, which improved the efficiency of job hiring processes for HR. Full Solution Documentation can be found [here](/assets/images/powerbi_dashboard.png). Demo can be found [here](https://drive.google.com/file/d/1fpG9mqigcH5hEfttQl2imVACnXsDB6ff/view?usp=sharing)
+
+
+#### 1. AI Job Applicant Analytics Chatbot
+Developed an AI Chatbot that filters job applicants and analyzes the best fitting candidates in real-time.
+
+![alt text](/assets/gifs/hiring_chatbot.gif)
+
+#### 2. AI Job Applications Summary Analytics
+Developed AI Generated Summary Reports that filter, summarize and analyze best candidates for a job role. Automated the generation and email delivery of the AI Summary Reports to the HR. Example of the summary report can be found [here](/assets/pdfs/Data-Scientist-applicant-summary-report.pdf).
+
+![alt text](/assets/images/summary_report_snippet.png)
+
+Stack: Azure Logic Apps, Azure Blob Storage, Azure Container Apps, Azure File Share, Wordpress, Power Virtual Agents, Power Automate, CustomGPT, Qdrant Vector Database and Search, Docker, OpenAI Chat API, FastAPI, Python
 
 ## AI in After Sales Analytics 
 - e1  wqdADS
