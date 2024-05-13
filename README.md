@@ -38,7 +38,7 @@ Full Solution Documentation can be found [here](/assets/images/powerbi_dashboard
 
 
 #### 1. Job Applicant Analytics Chatbot
-Developed an AI Chatbot that filters job applicants and analyzes the best fitting candidates in real-time.
+Developed an AI Chatbot that ranks job applicants and analyzes the best fitting candidates in real-time.
 
 ![alt text](/assets/gifs/hiring_chatbot.gif)
 
